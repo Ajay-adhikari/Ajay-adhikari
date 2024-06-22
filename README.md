@@ -1,13 +1,8 @@
-<div align="center">
-  <img src="https://via.placeholder.com/600x200.png?text=Welcome+to+My+Profile!" alt="Header Image" />
-</div>
 
 ### 👋 Hello World! I’m Ajay Adhikari (@Ajay-adhikari)
 
-![GitHub Stats](https://github.com/Ajay-adhikari/Ajay-adhikari/blob/main/assets/github-stats.svg)
-![Coding Activity](https://github.com/Ajay-adhikari/Ajay-adhikari/blob/main/assets/coding-activity.gif)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=next.js)](https://ajayadhikariportfolio.netlify.app)
-
+![GitHub Stats 3D](https://your-3d-model-url)
+[![Portfolio 3D](https://your-3d-badge-url)](https://ajayadhikariportfolio.netlify.app)
 
 
 ### 🚀 Passionate about Crafting Full Stack Solutions
