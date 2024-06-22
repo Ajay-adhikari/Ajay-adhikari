@@ -4,7 +4,7 @@
 
 ### 👋 Hello World! I’m Ajay Adhikari (@Ajay-adhikari)
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay-adhikari&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-adhikari&layout=compact&theme=dark) [![Ajay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ajay-adhikari&theme=github)](https://github.com/Ajay-adhikari/github-readme-activity-graph) ![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=next.js)
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay-adhikari&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-adhikari&layout=compact&theme=dark)[![Ajay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ajay-adhikari&theme=github)](https://github.com/Ajay-adhikari) ![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=next.js)
 
 ### 🚀 Passionate about Crafting Full Stack Solutions
 
@@ -30,7 +30,7 @@
 
 - [Amazone Clone](https://ajayproject.netlify.app/)
 - [Chat APP](https://chatappbyajay.onrender.com/)
--[ Social Media APP](https://adhikarisocial.netlify.app/)
+- [Social Media APP](https://adhikarisocial.netlify.app/)
 
 ### 🌐 Get In Touch:
 
