@@ -1,7 +1,10 @@
 <div align="center">
   <img src="https://via.placeholder.com/600x200.png?text=Welcome+to+My+Profile!" alt="Welcome to My Profile" />
 </div>
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay-adhikari&show_icons=true&theme=dark)
+
 👋 Hello World! I’m Ajay Adhikari (@Ajay-adhikari)
+
 🚀 Passionate about Crafting Full Stack Solutions
 
 👀 Interests: Full stack development, creating seamless user experiences, and exploring cutting-edge technologies.
