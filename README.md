@@ -4,7 +4,11 @@
 
 ### 👋 Hello World! I’m Ajay Adhikari (@Ajay-adhikari)
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay-adhikari&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-adhikari&layout=compact&theme=dark)[![Ajay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ajay-adhikari&theme=github)](https://github.com/Ajay-adhikari) ![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=next.js)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ajay-adhikari&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-adhikari&langs_count=8&layout=compact&theme=radical)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ajay-adhikari&theme=react-dark)](https://github.com/Ajay-adhikari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=next.js)](https://ajayadhikariportfolio.netlify.app)
+
 
 ### 🚀 Passionate about Crafting Full Stack Solutions
 
