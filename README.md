@@ -1,4 +1,6 @@
 👋 Hello World! I’m Ajay Adhikari (@Ajay-adhikari)
+
+
 🚀 Passionate about Crafting Full Stack Solutions
 👀 Interests: Full stack development, creating seamless user experiences, and exploring cutting-edge technologies.
 🌱 Currently Exploring: Deep diving into Next.js and its awesome capabilities to build scalable web applications.
