@@ -20,9 +20,7 @@ DevOps: Docker, Git, CI/CD
 
 Portfolio: ajayadhikariportfolio.netlify.app
 
-LinkedIn: Ajay Adhikari
-
-GitHub: Ajay-adhikari
+LinkedIn: [Ajay Adhikari](https://www.linkedin.com/in/ajay-adhikari-66695a174/)
 
 🌟 More About Me:
 
