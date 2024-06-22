@@ -2,7 +2,6 @@
   <img src="https://via.placeholder.com/600x200.png?text=Welcome+to+My+Profile!" alt="Banner" />
 </div>
 👋 Hello World! I’m Ajay Adhikari (@Ajay-adhikari)
-
 🚀 Passionate about Crafting Full Stack Solutions
 
 👀 Interests: Full stack development, creating seamless user experiences, and exploring cutting-edge technologies.
