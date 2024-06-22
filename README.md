@@ -4,8 +4,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ajay-adhikari&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-adhikari&langs_count=8&layout=compact&theme=radical)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=next.js)](https://ajayadhikariportfolio.netlify.app)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Project Demo](ajayadhikariportfolio.netlify.app/600x300.png?text=Project+Demo)
+[![Project Demo](https://via.placeholder.com/600x300.png?text=Project+Demo)](https://ajayadhikariportfolio.netlify.app)
+
 
 ### 🚀 Passionate about Crafting Full Stack Solutions
 
