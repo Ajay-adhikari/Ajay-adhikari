@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://via.placeholder.com/600x200.png?text=Welcome+to+My+Profile!" alt="Banner" />
-</div>
+
 👋 Hello World! I’m Ajay Adhikari (@Ajay-adhikari)
 🚀 Passionate about Crafting Full Stack Solutions
 
@@ -10,8 +8,11 @@
 
 💼 Skills:
 Front-End: HTML, CSS, JavaScript, React
+
 Back-End: Node.js, Express, MongoDB
+
 DevOps: Docker, Git, CI/CD
+
 💞️ Seeking Collaboration: Always open to exciting projects and innovative ideas. Let’s brainstorm and bring our visions to life!
 
 📫 Let's Connect!
