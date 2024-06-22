@@ -19,9 +19,7 @@ GitHub: Ajay-adhikari
 [MY Portfolio](https://ajayadhikariportfolio.netlify.app/) 
 [Chat APP](https://ajayproject.netlify.app/) 
 [Social Media APP](adhikarisocial.netlify.app) 
-
 🌐 Get In Touch:
 Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about tech!
-
 This repository is ✨ special ✨ because it showcases my journey, projects, and the skills I've honed over time. Click the Preview link to see the changes and let’s build something amazing together!
 
