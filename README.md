@@ -19,20 +19,18 @@
 ### 📫 Let's Connect!
 
 - **Portfolio:** [ajayadhikariportfolio.netlify.app](https://ajayadhikariportfolio.netlify.app)
-- **LinkedIn:** [Ajay Adhikari](https://www.linkedin.com/in/ajay-adhikari/)
-- **GitHub:** [Ajay-adhikari](https://github.com/Ajay-adhikari)
+- **LinkedIn:** [Ajay Adhikari](https://www.linkedin.com/in/ajay-adhikari-66695a174/)
 
 ### 🌟 More About Me:
 
 - **😄 Pronouns:** ...
-- **⚡ Fun Fact:** I can solve a Rubik’s cube in under a minute!
+- **⚡ Fun Fact:** I can make you lose in Chess!
 
 ### 🛠️ Featured Projects:
 
-- Amazone Clone
-- MY Portfolio
-- Chat APP
-- Social Media APP
+- [Amazone Clone](https://ajayproject.netlify.app/)
+- [Chat APP](https://chatappbyajay.onrender.com/)
+-[ Social Media APP](https://adhikarisocial.netlify.app/)
 
 ### 🌐 Get In Touch:
 
