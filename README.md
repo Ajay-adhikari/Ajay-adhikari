@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://via.placeholder.com/600x200.png?text=Welcome+to+My+Profile!" alt="Welcome to My Profile" />
 </div>
-👋 Hello World! I’m Ajay Adhikari (@Ajay-adhikari)
+###👋 Hello World! I’m Ajay Adhikari (@Ajay-adhikari)
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay-adhikari&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-adhikari&layout=compact&theme=dark)
 [![Ajay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ajay-adhikari&theme=github)](https://github.com/Ajay-adhikari/github-readme-activity-graph)
